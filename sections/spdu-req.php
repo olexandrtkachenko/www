@@ -3,12 +3,8 @@
   <div class="landing-page-section container people-content-group">
     <div class="col-lg-12 col-md-12 col-sm-12">
       <div class="row">
-		  <div class="col-lg-12 col-md-12 col-sm-12" style="
-		      margin-bottom: 4rem;
-		      padding: 0;
-		  "><h2 class="text-uppercase header-dark text-bold primary-header spdu-header" style="
-		      color: #2aabe1;
-		  ">ВИМОГИ</h2></div>
+		  <div class="col-lg-12 col-md-12 col-sm-12" style="margin-bottom: 4rem; padding: 0;">
+          <h2 class="text-uppercase header-dark text-bold primary-header spdu-header" style="color: #2aabe1;">ВИМОГИ</h2></div>
         <div class="col-lg-6 offset-lg-0 col-md-10 offset-md-1 col-sm-12 req-block">
           <h2 class="req-title">JAVA</h2>
           <li class="primary-text text-light">
@@ -70,4 +66,10 @@
 		
         
   </div>
-</section>
+<br><br>
+<div class="clearfix btn-wrap">
+        <a href="/courses/" class="btn cta-button button-hover" title="Learn more about our offer" role="button">
+	        Дізнатися більше
+        </a>
+      </div>
+</div></div></section>
