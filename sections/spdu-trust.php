@@ -4,26 +4,26 @@
     <div class="col-lg-12 col-md-12 col-sm-12 zero-padding">
     <h2 class="col-lg-4 offset-lg-4 col-md-6 offset-md-3 col-sm-8 offset-sm-2 text-center">
       <span class="block-title-thin">ПРОТЯГОМ</span>
-      <span class="block-title-thick">2016-2020 років</span>
+      <span class="block-title-thick">2016-2020 РОКІВ</span>
     </h2>
     <ul class="list-unstyled row trust-list">
       <li class="trust-list-item col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
         <h3 class="trust-list-item-title">
-			141 студентів
+			141 студент
 	       <span class="trust-after-title">закінчили</span>
            <span class="trust-after-title">SPD-University</span>
         </h3>
       </li>
       <li class="trust-list-item col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
          <h3 class="trust-list-item-title">
- 			59% випускників
+ 			60% випускників
  	       <span class="trust-after-title">приєдналися</span>
             <span class="trust-after-title">до SPD-Ukraine</span>
          </h3>
       </li>
       <li class="trust-list-item col-lg-4 offset-lg-0 col-sm-8 offset-sm-2">
          <h3 class="trust-list-item-title">
- 			78% випускників
+ 			80% випускників
  	       <span class="trust-after-title">побудували</span>
             <span class="trust-after-title">кар'єру в IT</span>
          </h3>
