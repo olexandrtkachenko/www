@@ -68,8 +68,8 @@
   </div>
 <br><br>
 <div class="clearfix btn-wrap">
-        <a href="/courses/" class="btn cta-button button-hover" title="Learn more about our offer" role="button">
-	        Дізнатися більше
+        <a href="/requirements/" class="btn cta-button button-hover" title="Learn more about our offer" role="button">
+	        Як підготуватись?
         </a>
       </div>
 </div></div></section>
